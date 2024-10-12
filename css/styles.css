@@ -77,16 +77,18 @@ a {
   color: #2e2f42;
   padding: 24px 0;
   display: block;
+}
 
 .contacts {
   font-style: normal;
-  }
+  margin-left: auto;
+}
 
 .contacts-list {
   display: flex;
   align-items: center;
   gap: 40px;
-  }
+}
 
 .contacts-link {
   display: block;
