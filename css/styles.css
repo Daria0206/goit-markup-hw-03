@@ -203,7 +203,8 @@ a {
 }
 
 .team-container {
-  padding: 32px 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
   text-align: center;
 }
 
